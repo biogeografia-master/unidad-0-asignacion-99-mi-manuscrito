@@ -1,1 +1,3 @@
-# unidad-0-asignacion-99-mi-manuscrito
+# Plantilla de manuscrito
+
+Abrir y editar archivo [manuscrito.Rmd](manuscrito.Rmd)
